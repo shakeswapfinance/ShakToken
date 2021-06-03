@@ -2,7 +2,7 @@
 
 ## What is https://shakeswap.finance , $SHAK token, TITAN Parachain.
 
-ShakeSwap is a decentralized cryptocurrency exchange for swapping BEP-20 tokens running on the Binance BSC Mainnet blockchain. Forked/Modified from Pancakeswap Contracts, ShakeSwap delivers the same Defi (Decentralized Finance) functions as Uniswap or SushiSwap.
+$SHAK token is a Binance Token (BEP-20) used on the USA based/created ShakeSwap.finance decentralized cryptocurrency exchange. Usused for swapping BEP-20 tokens running on the Binance BSC Mainnet blockchain. Forked/Modified from Pancakeswap Contracts, ShakeSwap delivers the same Defi (Decentralized Finance) functions as Uniswap or SushiSwap.
 
 The ShakeSwap exchange doesn’t use order books like traditional exchanges. Instead, it uses an automated market maker (AMM) model which matches buy and sell orders directly with others in a liquidity pool. User deposits maintain liquidity pools. By providing liquidity to such a pool, users can earn trading fees and liquidity provider (LP) tokens. LP tokes are redeemable for the initial capital deposited, plus any fees earned, minus any impermanent loss. Furthermore, LP tokens can then be staked, farmed, and traded.
 
